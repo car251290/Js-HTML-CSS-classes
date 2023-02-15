@@ -1,28 +1,46 @@
 
 <!DOCTYPE html>
 <html>
+  <header>
+   
+  </header>
 <body>
+  <script src="exam.js"></script>
+  <style>
+    .btn {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 35%;
+  }
 
+    .btn2 {
+      background-color: bisque;
+      border:none;
+      color:black;
+      padding: 15px 32px;
+      text-align: center;
+      text-align: center;
+      text-decoration: none;
+      display:inline-block;
+      font-size: 16px;
+      border-radius: 35%;
+    }
+
+
+   </style>
 <h1>My First JavaScript</h1>
 <p>Here, a JavaScript changes the value of the src (source) attribute of an image.</p>
 
-<script>
-function light(sw) {
-  var pic;
-  if (sw == 0) {
-    pic = "pic_bulboff.gif"
-  } else {
-    pic = "pic_bulbon.gif"
-  }
-  document.getElementById('myImage').src = pic;
-}
-</script>
-
 <img id="myImage" src="pic_bulboff.gif" width="100" height="180">
-
 <p>
-<button type="button" onclick="light(1)">Light On</button>
-<button type="button" onclick="light(0)">Light Off</button>
+<button class="btn" type="button" onclick="light(1)">Light On</button>
+<button class= "btn2" type="button" onclick="light(0)">Light Off</button>
 </p>
 
 </body>
