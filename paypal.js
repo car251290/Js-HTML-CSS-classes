@@ -52,11 +52,11 @@ fetch("/charge", {
 
 
 function validationformData (data) {
-    if(!data.expiryDate || data.cardNumber.length !=16){
+    if(!data.expiryDate || data.cardNumber.length != 16){
         alert("please enter a valid card");
         return false;
     }
-    if(!data.expiryDate || data.expiryDate.length !=5){
+    if(!data.expiryDate || data.expiryDate.length != 5){
         alert("please enter a valid expiry day in the formaty mm/yy");
         return false
     }
