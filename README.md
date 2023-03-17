@@ -31,3 +31,6 @@ The object data type can contain:
 1. An object
 2. An array
 3. A date
+
+# Jquery 
+for getting elements in the HTML and display it, it will be necesary the know some basics on the JQUERY
