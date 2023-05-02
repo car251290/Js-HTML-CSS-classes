@@ -34,3 +34,7 @@ The object data type can contain:
 
 # Jquery 
 for getting elements in the HTML and display it, it will be necesary the know some basics on the JQUERY
+
+# Boostrap
+Customize everything with Sass
+Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need, enable global options like gradients and shadows, and write your own CSS with our variables, maps, functions, and mixins.
