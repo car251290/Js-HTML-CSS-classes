@@ -2,7 +2,7 @@
 Basic of JS ,HTML AND CSS
 <div>
  <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
- <img style=width:15%;height:15% src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png">
+ <img style=width:25%;height:25% src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png">
 </div>
 
 ## HTML
