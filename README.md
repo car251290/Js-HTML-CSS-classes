@@ -1,5 +1,5 @@
 # Js-HTML-CSS-classes
-Basic of JS ,HTML AND CSS
+Basic JS , HTML AND CSS
 <div>
  <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
  <img style=width:30%;height:30% src="https://miro.medium.com/v2/resize:fit:792/1*lJ32Bl-lHWmNMUSiSq17gQ.png">
@@ -37,8 +37,12 @@ The object data type can contain:
 3. A date
 
 # Jquery 
-for getting elements in the HTML and display it, it will be necesary the know some basics on the JQUERY
+for getting elements in the HTML and displaying it, it will be necessary the know some basics of the JQUERY
 
 # Boostrap
 Customize everything with Sass
-Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need, enable global options like gradients and shadows, and write your own CSS with our variables, maps, functions, and mixins.
+Bootstrap utilizes Sass for modular and customizable architecture. Import only the components you need, enable global options like gradients and shadows and write your own CSS with our variables, maps, functions, and mixins.
+
+# Tailawind CSS
+
+
