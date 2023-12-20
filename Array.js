@@ -15,7 +15,7 @@ const score = [50,60,70,80,90,100]
 const logScore = (score) => console.log('score over 65', score)
 
 score.forEach((element)=> {
-    if(element>65){
+    if(element > 65){
         logScore(element);
         console.log('score is Higher')
     } else {
@@ -29,10 +29,10 @@ score.forEach((element)=> {
 
 const grades = [88,94,72,84,53,77];
 // to get the lower to higer
-grades.sort ((a,b)=> b-a);
+grades.sort ((a, b)=> b - a);
 console.log(grades);
 //to get the higer to lowest
-grades.sort((a,b)=> a - b)
+grades.sort((a, b)=> a - b)
 
 console.log(grades)
 
