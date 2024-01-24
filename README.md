@@ -34,7 +34,8 @@ The object data type can contain:
 
 1. An object
 2. An array
-3. A date
+3. String
+4. Number
 
 # Jquery 
 for getting elements in the HTML and displaying it, it will be necessary the know some basics of the JQUERY
@@ -46,3 +47,4 @@ Bootstrap utilizes Sass for modular and customizable architecture. Import only t
 # Tailawind CSS
 
 Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file.
+
